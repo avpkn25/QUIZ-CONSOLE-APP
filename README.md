@@ -16,4 +16,4 @@ The **Quiz Console App** is a simple Java-based application that presents multip
 ## 🔧 Setup & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/quiz-console-app.git
+   git clone https://github.com/avpkn25/QUIZ-CONSOLE-APP.git
