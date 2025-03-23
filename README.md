@@ -17,3 +17,32 @@ The **Quiz Console App** is a simple Java-based application that presents multip
 1. Clone this repository:
    ```sh
    git clone https://github.com/avpkn25/QUIZ-CONSOLE-APP.git
+
+2. Navigate to the project folder:
+
+   ```sh
+   cd certifystack-frontend
+
+3. Install dependencies:
+
+   ```sh
+   npm install
+
+4. Start the development server:
+
+   ```sh
+   npm start
+   
+5. Open http://localhost:3000 in your browser to view the app.
+
+## 🎯 Future Enhancements
+
+- Improve UI/UX with animations and better styling.
+- Integrate with the backend for authentication and data management.
+- Add a dashboard for users to manage their certifications.
+
+## 🤝 Contribution
+Feel free to fork this repository, open issues, and submit pull requests.
+
+## 📩 Contact
+For queries or suggestions, reach out via [Linkedin: avpkn25](https://www.linkedin.com/in/avpkn25).
