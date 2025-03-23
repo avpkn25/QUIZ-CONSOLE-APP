@@ -45,4 +45,4 @@ The **Quiz Console App** is a simple Java-based application that presents multip
 Feel free to fork this repository, open issues, and submit pull requests.
 
 ## 📩 Contact
-For queries or suggestions, reach out via [Linkedin: avpkn25](https://www.linkedin.com/in/avpkn25).
+For queries or suggestions, reach out via Linkedin: [avpkn25](https://www.linkedin.com/in/avpkn25).
